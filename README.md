@@ -4,6 +4,10 @@ Puts [Confluence: Otherworld](https://github.com/Magic-team-jvav/confluence)'s a
 achievement-screen background on the main menu and a few other menu
 screens.
 
+Available on Curseforge and Modrinth:
+https://www.curseforge.com/minecraft/mc-mods/confluence-main-menu/preview
+https://modrinth.com/mod/confluence-main-menu
+
 Requires **Confluence: Otherworld** (obviously). 
 Currently 1.21.1 neoforge only, will be ported to 1.20.1 forge alongside Confluence.
 
