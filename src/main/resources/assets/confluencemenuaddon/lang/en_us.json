@@ -1,0 +1,57 @@
+{
+  "confluencemenuaddon.configuration.menus": "Menus",
+  "confluencemenuaddon.configuration.menus.tooltip": "Which screens show the animated background.",
+
+  "confluencemenuaddon.configuration.animation": "Animation",
+  "confluencemenuaddon.configuration.animation.tooltip": "How the animated background moves.",
+
+  "confluencemenuaddon.configuration.extra": "Extra",
+  "confluencemenuaddon.configuration.extra.tooltip": "Hidden extras.",
+
+  "confluencemenuaddon.configuration.enableMainMenu": "Main Menu Background",
+  "confluencemenuaddon.configuration.enableMainMenu.tooltip": "Show the animated background on the main menu.",
+
+  "confluencemenuaddon.configuration.enableWorldSelectScreen": "World Select Background",
+  "confluencemenuaddon.configuration.enableWorldSelectScreen.tooltip": "Show the animated background on the world select screen.",
+
+  "confluencemenuaddon.configuration.enableMultiplayerScreen": "Multiplayer Screen Background",
+  "confluencemenuaddon.configuration.enableMultiplayerScreen.tooltip": "Show the animated background on the multiplayer server list.",
+
+  "confluencemenuaddon.configuration.enableOptionsScreen": "Options Screen Background",
+  "confluencemenuaddon.configuration.enableOptionsScreen.tooltip": "Show the animated background on the options screen.",
+
+  "confluencemenuaddon.configuration.enableCreateWorldScreen": "Create World Background",
+  "confluencemenuaddon.configuration.enableCreateWorldScreen.tooltip": "Show the animated background on the create world screen.",
+
+  "confluencemenuaddon.configuration.enableModListScreen": "Mods List Background",
+  "confluencemenuaddon.configuration.enableModListScreen.tooltip": "Show the animated background on the mods list screen.",
+
+  "confluencemenuaddon.configuration.enableConfigScreen": "Config Screen Background",
+  "confluencemenuaddon.configuration.enableConfigScreen.tooltip": "Show the animated background on a mod's configuration screen (opened via the \"Config\" button on the mods list).",
+
+  "confluencemenuaddon.configuration.enableAccessibilityScreen": "Accessibility Screen Background",
+  "confluencemenuaddon.configuration.enableAccessibilityScreen.tooltip": "Show the animated background on the accessibility settings screen.",
+
+  "confluencemenuaddon.configuration.enableLanguageScreen": "Language Screen Background",
+  "confluencemenuaddon.configuration.enableLanguageScreen.tooltip": "Show the animated background on the language selection screen.",
+
+  "confluencemenuaddon.configuration.backgroundAnimationSpeed": "Sky Scroll Speed",
+  "confluencemenuaddon.configuration.backgroundAnimationSpeed.tooltip": "How fast the background sky, sun, moon, and clouds scroll. 0 keeps it still.",
+
+  "confluencemenuaddon.configuration.environmentScrollSpeed": "Scenery Scroll Speed",
+  "confluencemenuaddon.configuration.environmentScrollSpeed.tooltip": "How fast the background scenery scrolls sideways. 0 keeps it still.",
+
+  "confluencemenuaddon.configuration.environmentScrollDirection": "Scenery Scroll Direction",
+  "confluencemenuaddon.configuration.environmentScrollDirection.tooltip": "Which direction the background scenery scrolls.",
+  "confluencemenuaddon.configuration.environmentScrollDirection.LEFT_TO_RIGHT": "Left to Right",
+  "confluencemenuaddon.configuration.environmentScrollDirection.RIGHT_TO_LEFT": "Right to Left",
+
+  "confluencemenuaddon.configuration.additionalScreens": "Additional Screens",
+  "confluencemenuaddon.configuration.additionalScreens.tooltip": "Other screens to show the background on, listed by their full class name.",
+
+  "confluencemenuaddon.configuration.enableSunClickLogo": "Easter Egg Title",
+  "confluencemenuaddon.configuration.enableSunClickLogo.tooltip": "Clicking the sun or moon on the animated background swaps the main menu's \"MINECRAFT\" logo to an older version until the game restarts.",
+
+  "confluencemenuaddon.configuration.enableConfluenceSplashText": "Confluence Splash Text",
+  "confluencemenuaddon.configuration.enableConfluenceSplashText.tooltip": "Replace the main menu's splash text with one of Confluence: Otherworld's own randomized window title lines instead of a vanilla Minecraft splash."
+}
