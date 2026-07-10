@@ -5,7 +5,9 @@ achievement-screen background on the main menu and a few other menu
 screens.
 
 Available on Curseforge and Modrinth:
+
 https://www.curseforge.com/minecraft/mc-mods/confluence-main-menu/preview
+
 https://modrinth.com/mod/confluence-main-menu
 
 Requires **Confluence: Otherworld** (obviously). 
